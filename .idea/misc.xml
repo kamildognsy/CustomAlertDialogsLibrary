@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/ANDROID/CustomAlertDialogsLibrary/customalertlib/src/main/res/layout/custom_alert_dialog_two_button.xml" value="0.17481884057971014" />
+        <entry key="..\:/ANDROID/CustomAlertDialogsLibrary/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/ANDROID/CustomAlertDialogsLibrary/customalertlib/src/main/res/drawable/alert_dialog_background.xml" value="0.2075" />
+        <entry key="..\:/ANDROID/CustomAlertDialogsLibrary/customalertlib/src/main/res/drawable/alert_dialog_button_background.xml" value="0.2075" />
+        <entry key="..\:/ANDROID/CustomAlertDialogsLibrary/customalertlib/src/main/res/layout/custom_alert_dialog_one_button.xml" value="0.2" />
+        <entry key="..\:/ANDROID/CustomAlertDialogsLibrary/customalertlib/src/main/res/layout/custom_alert_dialog_three_button.xml" value="0.22" />
+        <entry key="..\:/ANDROID/CustomAlertDialogsLibrary/customalertlib/src/main/res/layout/custom_alert_dialog_two_button.xml" value="0.25" />
       </map>
     </option>
   </component>

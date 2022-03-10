@@ -33,7 +33,7 @@
     </LinearLayout>
 
     <TextView
-        android:id="@+id/tv_content"
+        android:id="@+id/tv_contet"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Are You Sure?"
@@ -45,24 +45,34 @@
         android:layout_margin="10dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:weightSum="2"
+        android:weightSum="3"
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/btn_positive"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="POSITIVE"
             android:layout_margin="5dp"
+            android:visibility="invisible"
             android:background="@drawable/alert_dialog_button_background"
             android:layout_weight="1"
             ></Button>
 
         <Button
-            android:id="@+id/btn_negative"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="NEGATIVE"
+            android:layout_margin="5dp"
+            android:visibility="invisible"
+            android:background="@drawable/alert_dialog_button_background"
+            android:layout_weight="1"
+            ></Button>
+
+        <Button
+            android:id="@+id/btn_ok"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Other"
             android:layout_margin="5dp"
             android:background="@drawable/alert_dialog_button_background"
             android:layout_weight="1"
